@@ -1,3 +1,3 @@
 # Brockway
 
-Image used to bootstrap build processes
+Image used to bootstrap build processes. Essentially jasonrm/fargo + docker
